@@ -1,0 +1,201 @@
+Transaction_ID,Date,Customer_Name,Items,Total_Items,qty,Total_Cost,Payment_Method,City,Store_Type,Discount_Applied
+1000000001,2025-01-02 10:15:30,Alice Smith,"['Laptop', 'Wireless Mouse', 'Mousepad', 'Laptop Sleeve']",4,3,380.5,Credit Card,New York,Tech Retail Store,True
+1000000002,2025-01-03 14:22:10,Bob Jones,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,2,245,Debit Card,Los Angeles,Online Electronics,False
+1000000003,2025-01-04 09:40:55,Charlie Brown,"['Smartphone', 'Phone Case', 'Screen Protector', 'Fast Charger']",4,4,650.25,Mobile Payment,Chicago,Warehouse Club,True
+1000000004,2025-01-05 16:11:00,Diana Prince,"['Bluetooth Speaker', 'Aux Cable', 'Power Bank']",3,2,150,Cash,Houston,Tech Retail Store,False
+1000000005,2025-01-06 11:30:20,Ethan Hunt,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,3,410.75,Credit Card,Phoenix,Online Electronics,True
+1000000006,2025-01-07 13:05:40,Fiona Gallagher,"['Gaming Console', 'Gamepad', 'Headset', 'HDMI Cable']",4,2,720,Debit Card,Philadelphia,Warehouse Club,False
+1000000007,2025-01-08 15:50:15,George Clark,"['Smartwatch', 'Wireless Charger', 'Extra Bands']",3,1,290.5,Mobile Payment,San Antonio,Tech Retail Store,True
+1000000008,2025-01-09 12:20:10,Hannah Abbott,"['Wireless Router', 'Ethernet Cable', 'Network Switch']",3,2,185,Cash,San Diego,Online Electronics,False
+1000000009,2025-01-10 10:05:00,Ian Malcolm,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag', 'Tripod']",4,3,950,Credit Card,Dallas,Warehouse Club,True
+1000000010,2025-01-11 17:40:25,Julia Roberts,"['Portable SSD', 'USB-C Hub', 'Flash Drive']",3,2,210,Debit Card,San Jose,Tech Retail Store,False
+1000000011,2025-01-12 11:10:00,Kevin Taylor,"['Laptop', 'Wireless Mouse', 'Mousepad']",3,2,310,Mobile Payment,Austin,Online Electronics,True
+1000000012,2025-01-13 14:30:15,Laura Anderson,"['Monitor', 'HDMI Cable']",2,1,190,Cash,Jacksonville,Tech Retail Store,False
+1000000013,2025-01-14 16:20:40,Marcus Thomas,"['Smartphone', 'Screen Protector', 'Fast Charger']",3,3,520.5,Credit Card,Fort Worth,Warehouse Club,True
+1000000014,2025-01-15 09:15:22,Nina Jackson,"['Bluetooth Speaker', 'Power Bank']",2,1,95,Debit Card,Columbus,Online Electronics,False
+1000000015,2025-01-16 12:45:50,Oscar White,"['Tablet', 'Stylus Pen']",2,2,340,Mobile Payment,Charlotte,Tech Retail Store,True
+1000000016,2025-01-17 15:10:30,Paula Harris,"['Gaming Console', 'Gamepad', 'Headset']",3,2,610,Cash,New York,Warehouse Club,False
+1000000017,2025-01-18 10:25:11,Quentin Martin,"['Smartwatch', 'Wireless Charger']",2,1,220,Credit Card,Los Angeles,Tech Retail Store,True
+1000000018,2025-01-19 13:35:00,Rachel Thompson,"['Wireless Router', 'Ethernet Cable']",2,2,130,Debit Card,Chicago,Online Electronics,False
+1000000019,2025-01-20 18:00:12,Sam Garcia,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag']",3,1,780,Mobile Payment,Houston,Warehouse Club,True
+1000000020,2025-01-21 11:55:40,Tina Martinez,"['Portable SSD', 'Flash Drive']",2,2,160,Cash,Phoenix,Tech Retail Store,False
+1000000021,2025-01-22 14:10:05,Alice Jones,"['Laptop', 'Wireless Mouse', 'Laptop Sleeve']",3,2,340,Credit Card,Philadelphia,Online Electronics,True
+1000000022,2025-01-23 16:45:20,Bob Smith,"['Monitor', 'Mechanical Keyboard']",2,1,170,Debit Card,San Antonio,Tech Retail Store,False
+1000000023,2025-01-24 10:30:15,Charlie Prince,"['Smartphone', 'Phone Case', 'Fast Charger']",3,3,480,Mobile Payment,San Diego,Warehouse Club,True
+1000000024,2025-01-25 12:15:50,Diana Brown,"['Bluetooth Speaker', 'Aux Cable']",2,1,85,Cash,Dallas,Online Electronics,False
+1000000025,2025-01-26 15:20:30,Ethan Gallagher,"['Tablet', 'Tablet Cover']",2,2,290,Credit Card,San Jose,Tech Retail Store,True
+1000000026,2025-01-27 11:00:45,Fiona Clark,"['Gaming Console', 'HDMI Cable']",2,1,510,Debit Card,Austin,Warehouse Club,False
+1000000027,2025-01-28 13:40:10,George Abbott,"['Smartwatch', 'Extra Bands']",2,1,195,Mobile Payment,Jacksonville,Tech Retail Store,True
+1000000028,2025-01-29 17:15:25,Hannah Malcolm,"['Wireless Router', 'Network Switch']",2,2,145,Cash,Fort Worth,Online Electronics,False
+1000000029,2025-01-30 09:50:00,Ian Roberts,"['DSLR Camera', 'Tripod']",2,1,720,Credit Card,Columbus,Warehouse Club,True
+1000000030,2025-01-31 14:20:33,Julia Taylor,"['Portable SSD', 'USB-C Hub']",2,2,180,Debit Card,Charlotte,Tech Retail Store,False
+1000000031,2025-02-01 10:11:22,Kevin Anderson,"['Laptop', 'Mousepad', 'Laptop Sleeve']",3,2,250,Mobile Payment,New York,Online Electronics,True
+1000000032,2025-02-02 12:40:15,Laura Thomas,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,3,260,Cash,Los Angeles,Tech Retail Store,False
+1000000033,2025-02-03 15:30:44,Marcus Jackson,"['Smartphone', 'Screen Protector']",2,1,410,Credit Card,Chicago,Warehouse Club,True
+1000000034,2025-02-04 11:22:10,Nina White,"['Bluetooth Speaker', 'Power Bank']",2,2,110,Debit Card,Houston,Online Electronics,False
+1000000035,2025-02-05 16:05:30,Oscar Harris,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,1,390,Mobile Payment,Phoenix,Tech Retail Store,True
+1000000036,2025-02-06 13:15:55,Paula Martin,"['Gaming Console', 'Gamepad', 'Headset']",3,2,630,Cash,Philadelphia,Warehouse Club,False
+1000000037,2025-02-07 10:40:00,Quentin Thompson,"['Smartwatch', 'Wireless Charger']",2,1,215,Credit Card,San Antonio,Tech Retail Store,True
+1000000038,2025-02-08 14:50:12,Rachel Garcia,"['Wireless Router', 'Ethernet Cable']",2,2,125,Debit Card,San Diego,Online Electronics,False
+1000000039,2025-02-09 17:20:30,Sam Martinez,"['DSLR Camera', 'Camera Bag', 'Tripod']",3,1,810,Mobile Payment,Dallas,Warehouse Club,True
+1000000040,2025-02-10 09:30:15,Tina Smith,"['Portable SSD', 'Flash Drive']",2,2,150,Cash,San Jose,Tech Retail Store,False
+1000000041,2025-02-11 11:15:40,Alice Jones,"['Laptop', 'Wireless Mouse', 'Mousepad', 'Laptop Sleeve']",4,3,390,Credit Card,Austin,Online Electronics,True
+1000000042,2025-02-12 15:22:10,Bob Brown,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,2,255,Debit Card,Jacksonville,Tech Retail Store,False
+1000000043,2025-02-13 13:10:05,Charlie Prince,"['Smartphone', 'Phone Case', 'Screen Protector', 'Fast Charger']",4,4,660,Mobile Payment,Fort Worth,Warehouse Club,True
+1000000044,2025-02-14 10:05:50,Diana Hunt,"['Bluetooth Speaker', 'Aux Cable', 'Power Bank']",3,2,160,Cash,Columbus,Tech Retail Store,False
+1000000045,2025-02-15 16:40:20,Ethan Gallagher,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,3,420,Credit Card,Charlotte,Online Electronics,True
+1000000046,2025-02-16 12:30:11,Fiona Clark,"['Gaming Console', 'Gamepad', 'Headset', 'HDMI Cable']",4,2,735,Debit Card,New York,Warehouse Club,False
+1000000047,2025-02-17 14:15:30,George Abbott,"['Smartwatch', 'Wireless Charger', 'Extra Bands']",3,1,300,Mobile Payment,Los Angeles,Tech Retail Store,True
+1000000048,2025-02-18 09:55:00,Hannah Malcolm,"['Wireless Router', 'Ethernet Cable', 'Network Switch']",3,2,190,Cash,Chicago,Online Electronics,False
+1000000049,2025-02-19 11:40:45,Ian Roberts,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag', 'Tripod']",4,3,960,Credit Card,Houston,Warehouse Club,True
+1000000050,2025-02-20 17:00:22,Julia Taylor,"['Portable SSD', 'USB-C Hub', 'Flash Drive']",3,2,220,Debit Card,Phoenix,Tech Retail Store,False
+1000000051,2025-02-21 10:20:15,Kevin Smith,"['Laptop', 'Wireless Mouse']",2,1,280,Mobile Payment,Philadelphia,Online Electronics,True
+1000000052,2025-02-22 13:11:40,Laura Jones,"['Monitor', 'Mechanical Keyboard']",2,2,195,Cash,San Antonio,Tech Retail Store,False
+1000000053,2025-02-23 15:50:00,Marcus Brown,"['Smartphone', 'Fast Charger']",2,1,450,Credit Card,San Diego,Warehouse Club,True
+1000000054,2025-02-24 11:05:25,Nina Prince,"['Bluetooth Speaker', 'Aux Cable']",2,2,90,Debit Card,Dallas,Online Electronics,False
+1000000055,2025-02-25 16:30:10,Oscar Hunt,"['Tablet', 'Stylus Pen']",2,1,310,Mobile Payment,San Jose,Tech Retail Store,True
+1000000056,2025-02-26 12:20:50,Paula Gallagher,"['Gaming Console', 'Gamepad']",2,2,550,Cash,Austin,Warehouse Club,False
+1000000057,2025-02-27 14:40:15,Quentin Clark,"['Smartwatch', 'Extra Bands']",2,1,200,Credit Card,Jacksonville,Tech Retail Store,True
+1000000058,2025-02-28 10:15:33,Rachel Abbott,"['Wireless Router', 'Network Switch']",2,2,150,Debit Card,Fort Worth,Online Electronics,False
+1000000059,2025-03-01 17:10:00,Sam Malcolm,"['DSLR Camera', 'Tripod']",2,1,730,Mobile Payment,Columbus,Warehouse Club,True
+1000000060,2025-03-02 09:45:20,Tina Roberts,"['Portable SSD', 'USB-C Hub']",2,2,190,Cash,Charlotte,Tech Retail Store,False
+1000000061,2025-03-03 11:30:10,Alice Taylor,"['Laptop', 'Mousepad', 'Laptop Sleeve']",3,2,260,Credit Card,New York,Online Electronics,True
+1000000062,2025-03-04 13:22:40,Bob Anderson,"['Monitor', 'HDMI Cable']",2,1,185,Debit Card,Los Angeles,Tech Retail Store,False
+1000000063,2025-03-05 15:11:00,Charlie Thomas,"['Smartphone', 'Screen Protector']",2,2,420,Mobile Payment,Chicago,Warehouse Club,True
+1000000064,2025-03-06 10:05:15,Diana Jackson,"['Bluetooth Speaker', 'Power Bank']",2,1,105,Cash,Houston,Online Electronics,False
+1000000065,2025-03-07 16:50:30,Ethan White,"['Tablet', 'Tablet Cover']",2,2,305,Credit Card,Phoenix,Tech Retail Store,True
+1000000066,2025-03-08 12:40:11,Fiona Harris,"['Gaming Console', 'Headset']",2,1,580,Debit Card,Philadelphia,Warehouse Club,False
+1000000067,2025-03-09 14:15:22,George Martin,"['Smartwatch', 'Wireless Charger']",2,2,230,Mobile Payment,San Antonio,Tech Retail Store,True
+1000000068,2025-03-10 11:00:50,Hannah Thompson,"['Wireless Router', 'Ethernet Cable']",2,1,120,Cash,San Diego,Online Electronics,False
+1000000069,2025-03-11 15:30:10,Ian Garcia,"['DSLR Camera', 'Camera Bag']",3,2,760,Credit Card,Dallas,Warehouse Club,True
+1000000070,2025-03-12 09:20:33,Julia Martinez,"['Portable SSD', 'Flash Drive']",2,1,145,Debit Card,San Jose,Tech Retail Store,False
+1000000071,2025-03-13 13:10:05,Kevin Smith,"['Laptop', 'Wireless Mouse', 'Mousepad', 'Laptop Sleeve']",4,3,395,Mobile Payment,Austin,Online Electronics,True
+1000000072,2025-03-14 16:45:20,Laura Jones,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,2,260,Cash,Jacksonville,Tech Retail Store,False
+1000000073,2025-03-15 10:22:11,Marcus Brown,"['Smartphone', 'Phone Case', 'Screen Protector', 'Fast Charger']",4,4,670,Credit Card,Fort Worth,Warehouse Club,True
+1000000074,2025-03-16 11:55:40,Nina Prince,"['Bluetooth Speaker', 'Aux Cable', 'Power Bank']",3,2,165,Debit Card,Columbus,Online Electronics,False
+1000000075,2025-03-17 14:30:00,Oscar Hunt,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,3,430,Mobile Payment,Charlotte,Tech Retail Store,True
+1000000076,2025-03-18 17:05:15,Paula Gallagher,"['Gaming Console', 'Gamepad', 'Headset', 'HDMI Cable']",4,2,740,Cash,New York,Warehouse Club,False
+1000000077,2025-03-19 12:15:30,Quentin Clark,"['Smartwatch', 'Wireless Charger', 'Extra Bands']",3,1,310,Credit Card,Los Angeles,Tech Retail Store,True
+1000000078,2025-03-20 15:40:22,Rachel Abbott,"['Wireless Router', 'Ethernet Cable', 'Network Switch']",3,2,195,Debit Card,Chicago,Online Electronics,False
+1000000079,2025-03-21 09:10:45,Sam Malcolm,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag', 'Tripod']",4,3,970,Mobile Payment,Houston,Warehouse Club,True
+1000000080,2025-03-22 13:50:00,Tina Roberts,"['Portable SSD', 'USB-C Hub', 'Flash Drive']",3,2,225,Cash,Phoenix,Tech Retail Store,False
+1000000081,2025-03-23 11:20:15,Alice Taylor,"['Laptop', 'Wireless Mouse']",2,1,285,Credit Card,Philadelphia,Online Electronics,True
+1000000082,2025-03-24 14:11:40,Bob Anderson,"['Monitor', 'Mechanical Keyboard']",2,2,200,Debit Card,San Antonio,Tech Retail Store,False
+1000000083,2025-03-25 16:50:00,Charlie Thomas,"['Smartphone', 'Fast Charger']",2,1,455,Mobile Payment,San Diego,Warehouse Club,True
+1000000084,2025-03-26 10:05:25,Diana Jackson,"['Bluetooth Speaker', 'Aux Cable']",2,2,95,Cash,Dallas,Online Electronics,False
+1000000085,2025-03-27 12:30:10,Ethan White,"['Tablet', 'Stylus Pen']",2,1,315,Credit Card,San Jose,Tech Retail Store,True
+1000000086,2025-03-28 15:20:50,Fiona Harris,"['Gaming Console', 'Gamepad']",2,2,560,Debit Card,Austin,Warehouse Club,False
+1000000087,2025-03-29 11:40:15,George Martin,"['Smartwatch', 'Extra Bands']",2,1,205,Mobile Payment,Jacksonville,Tech Retail Store,True
+1000000088,2025-03-30 14:15:33,Hannah Thompson,"['Wireless Router', 'Network Switch']",2,2,155,Cash,Fort Worth,Online Electronics,False
+1000000089,2025-03-31 16:10:00,Ian Garcia,"['DSLR Camera', 'Tripod']",2,1,740,Credit Card,Columbus,Warehouse Club,True
+1000000090,2025-04-01 09:45:20,Julia Martinez,"['Portable SSD', 'USB-C Hub']",2,2,195,Debit Card,Charlotte,Tech Retail Store,False
+1000000091,2025-04-02 11:30:10,Kevin Smith,"['Laptop', 'Mousepad', 'Laptop Sleeve']",3,2,265,Mobile Payment,New York,Online Electronics,True
+1000000092,2025-04-03 13:22:40,Laura Jones,"['Monitor', 'HDMI Cable']",2,1,190,Cash,Los Angeles,Tech Retail Store,False
+1000000093,2025-04-04 15:11:00,Marcus Brown,"['Smartphone', 'Screen Protector']",2,2,425,Credit Card,Chicago,Warehouse Club,True
+1000000094,2025-04-05 10:05:15,Nina Prince,"['Bluetooth Speaker', 'Power Bank']",2,1,110,Debit Card,Houston,Online Electronics,False
+1000000095,2025-04-06 16:50:30,Oscar Hunt,"['Tablet', 'Tablet Cover']",2,2,310,Mobile Payment,Phoenix,Tech Retail Store,True
+1000000096,2025-04-07 12:40:11,Paula Gallagher,"['Gaming Console', 'Headset']",2,1,590,Cash,Philadelphia,Warehouse Club,False
+1000000097,2025-04-08 14:15:22,Quentin Clark,"['Smartwatch', 'Wireless Charger']",2,2,235,Credit Card,San Antonio,Tech Retail Store,True
+1000000098,2025-04-09 11:00:50,Rachel Abbott,"['Wireless Router', 'Ethernet Cable']",2,1,125,Debit Card,San Diego,Online Electronics,False
+1000000099,2025-04-10 15:30:10,Sam Malcolm,"['DSLR Camera', 'Camera Bag']",3,2,770,Mobile Payment,Dallas,Warehouse Club,True
+1000000100,2025-04-11 09:20:33,Tina Roberts,"['Portable SSD', 'Flash Drive']",2,1,150,Cash,San Jose,Tech Retail Store,False
+1000000101,2025-04-12 10:15:30,Alice Smith,"['Laptop', 'Wireless Mouse', 'Mousepad', 'Laptop Sleeve']",4,3,385,Credit Card,Austin,Online Electronics,True
+1000000102,2025-04-13 14:22:10,Bob Jones,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,2,250,Debit Card,Jacksonville,Tech Retail Store,False
+1000000103,2025-04-14 09:40:55,Charlie Brown,"['Smartphone', 'Phone Case', 'Screen Protector', 'Fast Charger']",4,4,655,Mobile Payment,Fort Worth,Warehouse Club,True
+1000000104,2025-04-15 16:11:00,Diana Prince,"['Bluetooth Speaker', 'Aux Cable', 'Power Bank']",3,2,155,Cash,Columbus,Tech Retail Store,False
+1000000105,2025-04-16 11:30:20,Ethan Hunt,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,3,415,Credit Card,Charlotte,Online Electronics,True
+1000000106,2025-04-17 13:05:40,Fiona Gallagher,"['Gaming Console', 'Gamepad', 'Headset', 'HDMI Cable']",4,2,725,Debit Card,New York,Warehouse Club,False
+1000000107,2025-04-18 15:50:15,George Clark,"['Smartwatch', 'Wireless Charger', 'Extra Bands']",3,1,295,Mobile Payment,Los Angeles,Tech Retail Store,True
+1000000108,2025-04-19 12:20:10,Hannah Abbott,"['Wireless Router', 'Ethernet Cable', 'Network Switch']",3,2,188,Cash,Chicago,Online Electronics,False
+1000000109,2025-04-20 10:05:00,Ian Malcolm,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag', 'Tripod']",4,3,955,Credit Card,Houston,Warehouse Club,True
+1000000110,2025-04-21 17:40:25,Julia Roberts,"['Portable SSD', 'USB-C Hub', 'Flash Drive']",3,2,215,Debit Card,Phoenix,Tech Retail Store,False
+1000000111,2025-04-22 11:10:00,Kevin Taylor,"['Laptop', 'Wireless Mouse', 'Mousepad']",3,2,315,Mobile Payment,Philadelphia,Online Electronics,True
+1000000112,2025-04-23 14:30:15,Laura Anderson,"['Monitor', 'HDMI Cable']",2,1,192,Cash,San Antonio,Tech Retail Store,False
+1000000113,2025-04-24 16:20:40,Marcus Thomas,"['Smartphone', 'Screen Protector', 'Fast Charger']",3,3,525,Credit Card,San Diego,Warehouse Club,True
+1000000114,2025-04-25 09:15:22,Nina Jackson,"['Bluetooth Speaker', 'Power Bank']",2,1,98,Debit Card,Dallas,Online Electronics,False
+1000000115,2025-04-26 12:45:50,Oscar White,"['Tablet', 'Stylus Pen']",2,2,345,Mobile Payment,San Jose,Tech Retail Store,True
+1000000116,2025-04-27 15:10:30,Paula Harris,"['Gaming Console', 'Gamepad', 'Headset']",3,2,615,Cash,Austin,Warehouse Club,False
+1000000117,2025-04-28 10:25:11,Quentin Martin,"['Smartwatch', 'Wireless Charger']",2,1,222,Credit Card,Jacksonville,Tech Retail Store,True
+1000000118,2025-04-29 13:35:00,Rachel Thompson,"['Wireless Router', 'Ethernet Cable']",2,2,132,Debit Card,Fort Worth,Online Electronics,False
+1000000119,2025-04-30 18:00:12,Sam Garcia,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag']",3,1,785,Mobile Payment,Columbus,Warehouse Club,True
+1000000120,2025-05-01 11:55:40,Tina Martinez,"['Portable SSD', 'Flash Drive']",2,2,162,Cash,Charlotte,Tech Retail Store,False
+1000000121,2025-05-02 14:10:05,Alice Jones,"['Laptop', 'Wireless Mouse', 'Laptop Sleeve']",3,2,342,Credit Card,New York,Online Electronics,True
+1000000122,2025-05-03 16:45:20,Bob Smith,"['Monitor', 'Mechanical Keyboard']",2,1,172,Debit Card,Los Angeles,Tech Retail Store,False
+1000000123,2025-05-04 10:30:15,Charlie Prince,"['Smartphone', 'Phone Case', 'Fast Charger']",3,3,485,Mobile Payment,Chicago,Warehouse Club,True
+1000000124,2025-05-05 12:15:50,Diana Brown,"['Bluetooth Speaker', 'Aux Cable']",2,1,88,Cash,Houston,Online Electronics,False
+1000000125,2025-05-06 15:20:30,Ethan Gallagher,"['Tablet', 'Tablet Cover']",2,2,292,Credit Card,Phoenix,Tech Retail Store,True
+1000000126,2025-05-07 11:00:45,Fiona Clark,"['Gaming Console', 'HDMI Cable']",2,1,512,Debit Card,Philadelphia,Warehouse Club,False
+1000000127,2025-05-08 13:40:10,George Abbott,"['Smartwatch', 'Extra Bands']",2,1,198,Mobile Payment,San Antonio,Tech Retail Store,True
+1000000128,2025-05-09 17:15:25,Hannah Malcolm,"['Wireless Router', 'Network Switch']",2,2,148,Cash,San Diego,Online Electronics,False
+1000000129,2025-05-10 09:50:00,Ian Roberts,"['DSLR Camera', 'Tripod']",2,1,725,Credit Card,Dallas,Warehouse Club,True
+1000000130,2025-05-11 14:20:33,Julia Taylor,"['Portable SSD', 'USB-C Hub']",2,2,182,Debit Card,San Jose,Tech Retail Store,False
+1000000131,2025-05-12 10:11:22,Kevin Anderson,"['Laptop', 'Mousepad', 'Laptop Sleeve']",3,2,252,Mobile Payment,Austin,Online Electronics,True
+1000000132,2025-05-13 12:40:15,Laura Thomas,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,3,262,Cash,Jacksonville,Tech Retail Store,False
+1000000133,2025-05-14 15:30:44,Marcus Jackson,"['Smartphone', 'Screen Protector']",2,1,412,Credit Card,Fort Worth,Warehouse Club,True
+1000000134,2025-05-15 11:22:10,Nina White,"['Bluetooth Speaker', 'Power Bank']",2,2,112,Debit Card,Columbus,Online Electronics,False
+1000000135,2025-05-16 16:05:30,Oscar Harris,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,1,392,Mobile Payment,Charlotte,Tech Retail Store,True
+1000000136,2025-05-17 13:15:55,Paula Martin,"['Gaming Console', 'Gamepad', 'Headset']",3,2,632,Cash,New York,Warehouse Club,False
+1000000137,2025-05-18 10:40:00,Quentin Thompson,"['Smartwatch', 'Wireless Charger']",2,1,218,Credit Card,Los Angeles,Tech Retail Store,True
+1000000138,2025-05-19 14:50:12,Rachel Garcia,"['Wireless Router', 'Ethernet Cable']",2,2,128,Debit Card,Chicago,Online Electronics,False
+1000000139,2025-05-20 17:20:30,Sam Martinez,"['DSLR Camera', 'Camera Bag', 'Tripod']",3,1,812,Mobile Payment,Houston,Warehouse Club,True
+1000000140,2025-05-21 09:30:15,Tina Smith,"['Portable SSD', 'Flash Drive']",2,2,152,Cash,Phoenix,Tech Retail Store,False
+1000000141,2025-05-22 11:15:40,Alice Jones,"['Laptop', 'Wireless Mouse', 'Mousepad', 'Laptop Sleeve']",4,3,392,Credit Card,Philadelphia,Online Electronics,True
+1000000142,2025-05-23 15:22:10,Bob Brown,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,2,258,Debit Card,San Antonio,Tech Retail Store,False
+1000000143,2025-05-24 13:10:05,Charlie Prince,"['Smartphone', 'Phone Case', 'Screen Protector', 'Fast Charger']",4,4,662,Mobile Payment,San Diego,Warehouse Club,True
+1000000144,2025-05-25 10:05:50,Diana Hunt,"['Bluetooth Speaker', 'Aux Cable', 'Power Bank']",3,2,162,Cash,Dallas,Tech Retail Store,False
+1000000145,2025-05-26 16:40:20,Ethan Gallagher,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,3,422,Credit Card,San Jose,Online Electronics,True
+1000000146,2025-05-27 12:30:11,Fiona Clark,"['Gaming Console', 'Gamepad', 'Headset', 'HDMI Cable']",4,2,738,Debit Card,Austin,Warehouse Club,False
+1000000147,2025-05-28 14:15:30,George Abbott,"['Smartwatch', 'Wireless Charger', 'Extra Bands']",3,1,302,Mobile Payment,Jacksonville,Tech Retail Store,True
+1000000148,2025-05-29 09:55:00,Hannah Malcolm,"['Wireless Router', 'Ethernet Cable', 'Network Switch']",3,2,192,Cash,Fort Worth,Online Electronics,False
+1000000149,2025-05-30 11:40:45,Ian Roberts,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag', 'Tripod']",4,3,962,Credit Card,Columbus,Warehouse Club,True
+1000000150,2025-05-31 17:00:22,Julia Taylor,"['Portable SSD', 'USB-C Hub', 'Flash Drive']",3,2,222,Debit Card,Charlotte,Tech Retail Store,False
+1000000151,2025-06-01 10:20:15,Kevin Smith,"['Laptop', 'Wireless Mouse']",2,1,282,Mobile Payment,New York,Online Electronics,True
+1000000152,2025-06-02 13:11:40,Laura Jones,"['Monitor', 'Mechanical Keyboard']",2,2,198,Cash,Los Angeles,Tech Retail Store,False
+1000000153,2025-06-03 15:50:00,Marcus Brown,"['Smartphone', 'Fast Charger']",2,1,452,Credit Card,Chicago,Warehouse Club,True
+1000000154,2025-06-04 11:05:25,Nina Prince,"['Bluetooth Speaker', 'Aux Cable']",2,2,92,Debit Card,Houston,Online Electronics,False
+1000000155,2025-06-05 16:30:10,Oscar Hunt,"['Tablet', 'Stylus Pen']",2,1,312,Mobile Payment,Phoenix,Tech Retail Store,True
+1000000156,2025-06-06 12:20:50,Paula Gallagher,"['Gaming Console', 'Gamepad']",2,2,552,Cash,Philadelphia,Warehouse Club,False
+1000000157,2025-06-07 14:40:15,Quentin Clark,"['Smartwatch', 'Extra Bands']",2,1,202,Credit Card,San Antonio,Tech Retail Store,True
+1000000158,2025-06-08 10:15:33,Rachel Abbott,"['Wireless Router', 'Network Switch']",2,2,152,Debit Card,San Diego,Online Electronics,False
+1000000159,2025-06-09 17:10:00,Sam Malcolm,"['DSLR Camera', 'Tripod']",2,1,732,Mobile Payment,Dallas,Warehouse Club,True
+1000000160,2025-06-10 09:45:20,Tina Roberts,"['Portable SSD', 'USB-C Hub']",2,2,192,Cash,San Jose,Tech Retail Store,False
+1000000161,2025-06-11 11:30:10,Alice Taylor,"['Laptop', 'Mousepad', 'Laptop Sleeve']",3,2,262,Credit Card,Austin,Online Electronics,True
+1000000162,2025-06-12 13:22:40,Bob Anderson,"['Monitor', 'HDMI Cable']",2,1,188,Debit Card,Jacksonville,Tech Retail Store,False
+1000000163,2025-06-13 15:11:00,Charlie Thomas,"['Smartphone', 'Screen Protector']",2,2,422,Mobile Payment,Fort Worth,Warehouse Club,True
+1000000164,2025-06-14 10:05:15,Diana Jackson,"['Bluetooth Speaker', 'Power Bank']",2,1,108,Cash,Columbus,Online Electronics,False
+1000000165,2025-06-15 16:50:30,Ethan White,"['Tablet', 'Tablet Cover']",2,2,308,Credit Card,Charlotte,Tech Retail Store,True
+1000000166,2025-06-16 12:40:11,Fiona Harris,"['Gaming Console', 'Headset']",2,1,582,Debit Card,New York,Warehouse Club,False
+1000000167,2025-06-17 14:15:22,George Martin,"['Smartwatch', 'Wireless Charger']",2,2,232,Mobile Payment,Los Angeles,Tech Retail Store,True
+1000000168,2025-06-18 11:00:50,Hannah Thompson,"['Wireless Router', 'Ethernet Cable']",2,1,122,Cash,Chicago,Online Electronics,False
+1000000169,2025-06-19 15:30:10,Ian Garcia,"['DSLR Camera', 'Camera Bag']",3,2,762,Credit Card,Houston,Warehouse Club,True
+1000000170,2025-06-20 09:20:33,Julia Martinez,"['Portable SSD', 'Flash Drive']",2,1,148,Debit Card,Phoenix,Tech Retail Store,False
+1000000171,2025-06-21 13:10:05,Kevin Smith,"['Laptop', 'Wireless Mouse', 'Mousepad', 'Laptop Sleeve']",4,3,388,Mobile Payment,Philadelphia,Online Electronics,True
+1000000172,2025-06-22 16:45:20,Laura Jones,"['Monitor', 'HDMI Cable', 'Mechanical Keyboard']",3,2,252,Cash,San Antonio,Tech Retail Store,False
+1000000173,2025-06-23 10:22:11,Marcus Brown,"['Smartphone', 'Phone Case', 'Screen Protector', 'Fast Charger']",4,4,658,Credit Card,San Diego,Warehouse Club,True
+1000000174,2025-06-24 11:55:40,Nina Prince,"['Bluetooth Speaker', 'Aux Cable', 'Power Bank']",3,2,158,Debit Card,Dallas,Online Electronics,False
+1000000175,2025-06-25 14:30:00,Oscar Hunt,"['Tablet', 'Stylus Pen', 'Tablet Cover']",3,3,418,Mobile Payment,San Jose,Tech Retail Store,True
+1000000176,2025-06-26 17:05:15,Paula Gallagher,"['Gaming Console', 'Gamepad', 'Headset', 'HDMI Cable']",4,2,728,Cash,Austin,Warehouse Club,False
+1000000177,2025-06-27 12:15:30,Quentin Clark,"['Smartwatch', 'Wireless Charger', 'Extra Bands']",3,1,298,Credit Card,Jacksonville,Tech Retail Store,True
+1000000178,2025-06-28 15:40:22,Rachel Abbott,"['Wireless Router', 'Ethernet Cable', 'Network Switch']",3,2,189,Debit Card,Fort Worth,Online Electronics,False
+1000000179,2025-06-29 09:10:45,Sam Malcolm,"['DSLR Camera', 'SD Card 64GB', 'Camera Bag', 'Tripod']",4,3,958,Mobile Payment,Columbus,Warehouse Club,True
+1000000180,2025-06-30 13:50:00,Tina Roberts,"['Portable SSD', 'USB-C Hub', 'Flash Drive']",3,2,218,Cash,Charlotte,Tech Retail Store,False
+1000000181,2025-07-01 11:20:15,Alice Taylor,"['Laptop', 'Wireless Mouse']",2,1,288,Credit Card,New York,Online Electronics,True
+1000000182,2025-07-02 14:11:40,Bob Anderson,"['Monitor', 'Mechanical Keyboard']",2,2,202,Debit Card,Los Angeles,Tech Retail Store,False
+1000000183,2025-07-03 16:50:00,Charlie Thomas,"['Smartphone', 'Fast Charger']",2,1,458,Mobile Payment,Chicago,Warehouse Club,True
+1000000184,2025-07-04 10:05:25,Diana Jackson,"['Bluetooth Speaker', 'Aux Cable']",2,2,98,Cash,Houston,Online Electronics,False
+1000000185,2025-07-05 12:30:10,Ethan White,"['Tablet', 'Stylus Pen']",2,1,318,Credit Card,Phoenix,Tech Retail Store,True
+1000000186,2025-07-06 15:20:50,Fiona Harris,"['Gaming Console', 'Gamepad']",2,2,562,Debit Card,Philadelphia,Warehouse Club,False
+1000000187,2025-07-07 11:40:15,George Martin,"['Smartwatch', 'Extra Bands']",2,1,208,Mobile Payment,San Antonio,Tech Retail Store,True
+1000000188,2025-07-08 14:15:33,Hannah Thompson,"['Wireless Router', 'Network Switch']",2,2,158,Cash,San Diego,Online Electronics,False
+1000000189,2025-07-09 16:10:00,Ian Garcia,"['DSLR Camera', 'Tripod']",2,1,742,Credit Card,Dallas,Warehouse Club,True
+1000000190,2025-07-10 09:45:20,Julia Martinez,"['Portable SSD', 'USB-C Hub']",2,2,198,Debit Card,San Jose,Tech Retail Store,False
+1000000191,2025-07-11 11:30:10,Kevin Smith,"['Laptop', 'Mousepad', 'Laptop Sleeve']",3,2,268,Mobile Payment,Austin,Online Electronics,True
+1000000192,2025-07-12 13:22:40,Laura Jones,"['Monitor', 'HDMI Cable']",2,1,192,Cash,Jacksonville,Tech Retail Store,False
+1000000193,2025-07-13 15:11:00,Marcus Brown,"['Smartphone', 'Screen Protector']",2,2,428,Credit Card,Fort Worth,Warehouse Club,True
+1000000194,2025-07-14 10:05:15,Nina Prince,"['Bluetooth Speaker', 'Power Bank']",2,1,112,Debit Card,Columbus,Online Electronics,False
+1000000195,2025-07-15 16:50:30,Oscar Hunt,"['Tablet', 'Tablet Cover']",2,2,312,Mobile Payment,Charlotte,Tech Retail Store,True
+1000000196,2025-07-16 12:40:11,Paula Gallagher,"['Gaming Console', 'Headset']",2,1,592,Cash,New York,Warehouse Club,False
+1000000197,2025-07-17 14:15:22,Quentin Clark,"['Smartwatch', 'Wireless Charger']",2,2,238,Credit Card,Los Angeles,Tech Retail Store,True
+1000000198,2025-07-18 11:00:50,Rachel Abbott,"['Wireless Router', 'Ethernet Cable']",2,1,128,Debit Card,Chicago,Online Electronics,False
+1000000199,2025-07-19 15:30:10,Sam Malcolm,"['DSLR Camera', 'Camera Bag']",3,2,772,Mobile Payment,Houston,Warehouse Club,True
+1000000200,2025-07-20 09:20:33,Tina Roberts,"['Portable SSD', 'Flash Drive']",2,1,152,Cash,Phoenix,Tech Retail Store,False

@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual Environments (Custom names)
+envs/
+ml/
+
+# Python cache and temporary files
+**/__pycache__/
+*.py[cod]
+*$py.class
